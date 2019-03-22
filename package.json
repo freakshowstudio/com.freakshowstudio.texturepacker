@@ -1,0 +1,10 @@
+{
+    "name": "com.freakshowstudio.texturepacker",
+    "displayName": "Texture Packer",
+    "version": "1.0.0",
+    "unity": "2018.3",
+    "description": "Texture packer",
+    "keywords": ["texture", "packer"],
+    "category": "Scripting",
+    "dependencies": {}
+}
