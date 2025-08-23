@@ -55,6 +55,14 @@ namespace FreakshowStudio.TexturePacker.Editor
                 "Cancel");
         }
 
+        private void OnEnable()
+        {
+            helpString =
+                "Select a set of textures to use for the red, green, blue " +
+                "and alpha channels, and select the source channel in each " +
+                "image that should be used to generate the final image.";
+        }
+
         private void OnWizardCreate()
         {
             var areSet =
