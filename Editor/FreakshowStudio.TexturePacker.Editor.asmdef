@@ -1,5 +1,5 @@
 {
-    "name": "TexturePacker.Editor",
+    "name": "FreakshowStudio.TexturePacker.Editor",
     "rootNamespace": "FreakshowStudio.TexturePacker",
     "references": [],
     "optionalUnityReferences": [],
