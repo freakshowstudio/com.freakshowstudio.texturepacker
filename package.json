@@ -1,7 +1,7 @@
 {
     "name": "com.freakshowstudio.texturepacker",
     "displayName": "Texture Packer",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "unity": "2018.3",
     "description": "Texture packer",
     "keywords": [
@@ -13,12 +13,12 @@
     "category": "Scripting",
     "dependencies": {},
     "author": {
-      "name": "Freakshow Studio AS",
-      "url": "https://github.com/freakshowstudio"
+        "name": "Freakshow Studio AS",
+        "url": "https://github.com/freakshowstudio"
     },
     "repository": {
-      "type": "git",
-      "url": "https://github.com/freakshowstudio/com.freakshowstudio.texturepacker"
+        "type": "git",
+        "url": "https://github.com/freakshowstudio/com.freakshowstudio.texturepacker"
     },
     "license": "MIT"
 }
